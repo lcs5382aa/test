@@ -26,6 +26,8 @@ import android.widget.Toast;
 import yg.devp.util.SignalDTO;
 import yg.devp.util.Useful;
 
+/* 2018-11-13 실내지도 기능 */
+
 public class BLEActivity extends AppCompatActivity {
 
     private static String TAG = "SCAN";
