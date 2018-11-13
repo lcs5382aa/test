@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CNN4IPS</string>
+    <string name="btn_main_ble">BLE</string>
+    <string name="btn_main_query">Query</string>
+    <string name="btn_main_save">Save</string>
+    <string name="btn_main_learn">Learn</string>
+    <string name="txtv_main_cell">Cell ID: </string>
+    <string name="txtv_main_set">Set ID: </string>
+    <string name="txtv_main_message">Message:</string>
+</resources>
